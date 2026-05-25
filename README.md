@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Desafio QA - Cucumber e Gherkin
 
 ## Objetivo
@@ -50,6 +48,4 @@ Solução aplicada:
 - reinicialização do VS Code
 
 Resultado: ambiente funcionando corretamente.
-=======
-# pratica-cucumber-ebac
->>>>>>> 5ea3d24f5a9e6828221ede6c485e315d5a968b5b
+
